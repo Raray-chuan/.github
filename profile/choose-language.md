@@ -1,2 +1,2 @@
-[English](./README.md)
-[Chinese](./README-zh_CN.md)
+[English](./README.md) |
+[Chinese](./README-zh_CN.md) 
