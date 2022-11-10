@@ -44,14 +44,32 @@ If you read this far, please join us as we gather recipes from around the world 
 ## Contact us
 **telegram:**
 https://t.me/ProgrammerAndCook
+<table>
+    <tr>
+      <td align="center" style="width: 200px;">
+        <a href="https://t.me/ProgrammerAndCook">
+           <img src="./img/telegram.png" alt="telegram" /><br>
+        </a><br>
+      </td>
+    </tr>
+</table>
+
 <div align="">
-    <img height='200px' src="./img/telegram.png" alt="telegram" />
+    
 </div>
+<br/>
 
 **wechat:**
-<div align="">
-    <img height='200px' src="./img/qrcode-for-it_fushang.jpg" alt="wechat" />
-</div>
+<table>
+    <tr>
+      <td align="center" style="width: 200px;">
+        <a href="#">
+           <img src="./img/qrcode-for-it_fushang.jpg" alt="wechat" /><br>
+        </a><br>
+      </td>
+    </tr>
+</table>
+<br/>
 
 **twitter:**
 Not yet
@@ -64,7 +82,7 @@ Not yet
 <br/>
 
 
-## Warning, this is very important!！
+## Warning, this is very important!
 1.There should be no human flesh in the ingredients！</br>
 2.Please put your country's special recipes in your country's repository.</br>
 3.If the recipe is your own and you have tried it, please put the recipe in the World-food repository.</br>
