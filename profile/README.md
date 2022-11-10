@@ -12,11 +12,8 @@ English | [Choose Language](./choose-language.md)
 
 ## Project Description
 <span>Now there are many seed banks all over the world. This seed bank is in case the world is destroyed and we have no source of plant seeds. So if the world is destroyed, and we grow food, but we've forgotten how to cook them, what should we do?</span>
-<br/>
-
-Now is the time to show the importance of our project. We want to collect all the recipes in the world!</br>
-<br/>
-If you read this far, please join us as we gather recipes from around the world in this github repository！</br>
+<span>Now is the time to show the importance of our project. We want to collect all the recipes in the world!</span>
+<span>If you read this far, please join us as we gather recipes from around the world in this github repository！</span>
 <div align="">
     <img height='120px' src="./img/importmant_01.gif" alt="importamt" />
 </div>
@@ -64,7 +61,7 @@ https://t.me/ProgrammerAndCook
     <tr>
       <td align="center" style="width: 200px;">
         <a href="#">
-           <img src="./img/qrcode-for-it_fushang.jpg" alt="wechat" /><br>
+           <img width="200px" src="./img/qrcode-for-it_fushang.jpg" alt="wechat" /><br>
         </a><br>
       </td>
     </tr>
