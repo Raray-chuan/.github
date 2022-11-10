@@ -57,7 +57,7 @@ https://t.me/ProgrammerAndCook
     <tr>
       <td align="center" style="width: 200px;">
         <a href="#">
-           <img width="200px" src="./img/qrcode-for-it_fushang.jpg" alt="wechat" /><br>
+           <img width="200px" src="./img/qrcode-for-xichuan.jpg" alt="wechat" /><br>
         </a><br>
       </td>
     </tr>
