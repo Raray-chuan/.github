@@ -4,7 +4,7 @@
 </div>
 <br/>
 
-中文 | [Choose Language](./choose-language.md)
+English | [Choose Language](./choose-language.md)
 <div align="center">
 				<span></span>
 </div>
@@ -48,7 +48,7 @@ https://t.me/ProgrammerAndCook
     <tr>
       <td align="center" style="width: 200px;">
         <a href="https://t.me/ProgrammerAndCook">
-           <img src="./img/telegram.png" alt="telegram" /><br>
+           <img width="200px" src="./img/telegram.png" alt="telegram" /><br>
         </a><br>
       </td>
     </tr>

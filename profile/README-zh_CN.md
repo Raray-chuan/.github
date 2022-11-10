@@ -48,7 +48,7 @@ https://t.me/ProgrammerAndCook
     <tr>
       <td align="center" style="width: 200px;">
         <a href="https://t.me/ProgrammerAndCook">
-           <img src="./img/telegram.png" alt="telegram" /><br>
+           <img width="200px" src="./img/telegram.png" alt="telegram" /><br>
         </a><br>
       </td>
     </tr>
@@ -64,7 +64,7 @@ https://t.me/ProgrammerAndCook
     <tr>
       <td align="center" style="width: 200px;">
         <a href="#">
-           <img src="./img/qrcode-for-it_fushang.jpg" alt="wechat" /><br>
+           <img width="200px" src="./img/qrcode-for-it_fushang.jpg" alt="wechat" /><br>
         </a><br>
       </td>
     </tr>
