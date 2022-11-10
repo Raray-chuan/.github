@@ -50,10 +50,6 @@ https://t.me/ProgrammerAndCook
       </td>
     </tr>
 </table>
-
-<div align="">
-
-</div>
 <br/>
 
 **wechat:**

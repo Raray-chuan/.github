@@ -50,10 +50,6 @@ https://t.me/ProgrammerAndCook
       </td>
     </tr>
 </table>
-
-<div align="">
-    
-</div>
 <br/>
 
 **wechat:**
@@ -71,11 +67,12 @@ https://t.me/ProgrammerAndCook
 **twitter:**
 Not yet
 <br/>
-
+<br/>
 
 
 ## A list of recipes that are currently available
 **[Chinese Recipes](https://github.com/world-food/China-food)**
+<br/>
 <br/>
 
 
